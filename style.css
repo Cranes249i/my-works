@@ -1,14 +1,14 @@
 body {
   margin: 0;
   font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
-  color: #222;
-  background: #f7f7f7;
+  color: #eee;
+  background: #1e1e1e;
 }
 
 header {
   text-align: center;
   padding: 32px 16px;
-  background: #ffffff;
+  background: #2a2a2a;
 }
 
 .cover {
