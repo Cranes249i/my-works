@@ -1,0 +1,13 @@
+# 依赖与构建生成的文件
+node_modules/
+dist/
+
+# 密钥与本机配置
+.env
+.env.*
+!.env.example
+
+# 系统与编辑器杂物
+Thumbs.db
+.DS_Store
+.vscode/
